@@ -21,7 +21,7 @@ This app follows the MVI(Model-View-Intent) architecture design pattern.
 
 
 ## Data Source
-All data comes from the Quran API: https://alquran.cloud/api
+All data comes from the CoinCap API 2.0: https://docs.coincap.io/
 
 
 ## Set up the environment
